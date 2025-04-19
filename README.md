@@ -1,8 +1,6 @@
 📚 Library Management System
 A Java-based web application for managing library operations (books, members, borrowing).
 
- (Replace with actual screenshot)
-
 ✨ Features
 Admin Panel: Add/edit/delete books and members.
 
